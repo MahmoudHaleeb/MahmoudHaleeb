@@ -1,4 +1,4 @@
-Welcome to MahmoudHaleeb profile! 
+<h3>Welcome to MahmoudHaleeb profile! 👏</h3>
 
 <uL> 
 <li>🏢 Im a beginner frontend web developer</li>
@@ -6,7 +6,7 @@ Welcome to MahmoudHaleeb profile!
 <li>👨‍💻 check out my repositories to see some of the projects i worked on.</li>
 </uL>
 
-🛠  Tech Stack
-HTML  CSS    Git  GitHub  Visual Studio Code
+<h3>🛠  Tech Stack</h3>
+<p color="white">HTML</p>  <p>CSS</p>  <p>Git</p>  <p>GitHu</p>  <p>Visual Studio Code</p>
 
 
