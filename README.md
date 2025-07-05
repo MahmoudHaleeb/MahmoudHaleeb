@@ -7,6 +7,7 @@
 </uL>
 
 <h3>🛠  Tech Stack</h3>
-<p color="white">HTML</p>  <p>CSS</p>  <p>Git</p>  <p>GitHu</p>  <p>Visual Studio Code</p>
-
+<ul>
+<li>HTML</li>  <li>CSS</li>  <li>Git</li>  <li>GitHub</li>  <li>Visual Studio Code</li>
+</ul>
 
